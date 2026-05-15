@@ -523,7 +523,7 @@ const Hero = () => {
           
           <div style={styles.buttonsContainer}>
             <a 
-              href="/resume.pdf" 
+              href="/suganresume.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               style={styles.btnLink}
